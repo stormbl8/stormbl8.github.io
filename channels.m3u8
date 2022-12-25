@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TRT1.tr.png" group-title="Undefined",TRT 1 HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4774?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT 2 FHD
+http://167.114.115.233:8080/trt2fhd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT 3-SPOR
+http://195.155.98.170:5858/play/a09m?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT 4K
+http://96a6b6a3.ottolok.net/iptv/URFPS4QVV53QPF/4001/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT BELGESEL HD
+http://195.155.98.170:5858/play/a09f?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT COCUK HD
+http://195.155.98.170:5858/play/a09b?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT MUZiK HD
+https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT TURK HD
+https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TRTWorld.tr.png" group-title="Undefined",Trt World HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7853?checkedby:iptvcat.com
