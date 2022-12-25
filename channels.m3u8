@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TRT1.tr.png" group-title="Undefined",TRT 1 HD+
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4774?checkedby:iptvcat.com
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT 2 FHD
-http://167.114.115.233:8080/trt2fhd/index.m3u8?checkedby:iptvcat.com
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT 3-SPOR
 http://195.155.98.170:5858/play/a09m?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT AVAZ
