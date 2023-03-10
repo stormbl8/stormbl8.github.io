@@ -1,30 +1,35 @@
 #EXTM3U
+
+
 #EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TRT1.tr.png"  ,TRT 1 HD
 https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 
-#EXTINF:0 tvg-country="TR" tvg-logo=""  ,TRT 2 HD
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/iOCQdyD.png"  ,TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 tvg-country="TR" tvg-logo=""  ,TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 tvg-country="TR" tvg-logo=""  ,TRT AVAZ
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-country="TR" vg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png"   ,TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 tvg-country="TR" tvg-logo=""  ,TRT BELGESEL HD
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:0 tvg-country="TR" tvg-logo=""  ,TRT COCUK HD
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"  ,TRT COCUK HD
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 
 #EXTINF:0 tvg-country="TR" tvg-logo=""  ,TRT MUZiK HD
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 tvg-country="TR" tvg-logo=""  ,TRT TURK HD
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png"   ,TRT TURK HD
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TRTWorld.tr.png"  ,Trt World HD+
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="News",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 tvg-country="TR" tvg-logo="https://yerelmedya.tv/logosTV/kanalfirat.png"  ,KANAL FIRAT
 https://waw2.artiyerelmedya.net/kanalfirat/bant1/chunks.m3u8?checkedby:iptvcat.com
@@ -32,62 +37,24 @@ https://waw2.artiyerelmedya.net/kanalfirat/bant1/chunks.m3u8?checkedby:iptvcat.c
 #EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e23fc92c-203c-4d91-aa70-e0d9bdeffd2a.png"  ,Kanal 26 Eskişehir
 http://yerelmedya.tv:1935/kanal26/_definst_/bant1/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/Kanal7Avrupa.tr.png"  ,Kanal 7 Avrupa
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2586?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/kanal7.tr.png"  ,Kanal 7 HD+
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5106?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="TR" tvg-logo=""  ,Kanal Avrupa
 http://51.15.2.151/hls/kanalavrupa.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/KanalD.tr.png"  ,Kanal D HD+
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4768?checkedby:iptvcat.com
+http://rv.therevenge.co:80/565656/565656/80720?checkedby:dailyfreeiptvlist.com
 
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/24.tr.png"  ,24 Haber HD+
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13899?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png"  ,360 TV
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/aHaber.tr.png"  ,A Haber HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/63?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/a2.tr.png"  ,A2 Tv
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6314?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="TR" tvg-logo=""  ,AKIT TV HD
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/579dbf0e-ec89-4e4a-893a-2cae982a8b99.png"  ,Akıllı TV
-http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/atv.tr.png"  ,Atv HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/52?checkedby:iptvcat.com
+http://zn.myseries.xyz:8080/suayip/suayip1234/43928?checkedby:dailyfreeiptvlist.com
 
 #EXTINF:0 tvg-country="TR" tvg-logo=""  ,BENGÜTÜRK TV [HD]
 https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://logo.vizontele.eu/logoslar/beinsports1.png"  ,BeIN SPORT 1 HD
-https://srvccc.rise2549blood.xyz/kaynakstreamradarco/selcukbein1app/naxi/caxi.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beINSports2.tr.png"  ,Bein Sports - 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1684?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beINSports3.tr.png"  ,Bein Sports - 3 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1803?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beinsports4.tr.png"  ,Bein Sports - 4 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1804?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beINSportsMax1.tr.png"  ,Bein Sports Max 1 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4196?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/beINSportsMax2.tr.png"  ,Bein Sports Max 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4197?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/CNNTurk.tr.png"  ,CNN Türk HD+
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5105?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="TR" tvg-logo=""  ,CiFTCi TV
 http://yerelmedya.tv:1935/ciftcitv/bant1/playlist.m3u8?checkedby:iptvcat.com
@@ -99,34 +66,19 @@ http://195.155.98.170:5858/play/a0a4?checkedby:iptvcat.com
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/73?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/Fox.tr.png"  ,Fox Tv HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/55?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo=""  ,GURBET 24 TV
-http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8?checkedby:iptvcat.com
+http://rv.therevenge.co:80/live/242424/242424/80729.m3u8?checkedby:dailyfreeiptvlist.com
 
 #EXTINF:0 tvg-country="TR" tvg-logo=""  ,HABERTÜRK [HD]
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://yerelmedya.tv/logosTV/kanal12.pngtvg-id="  ,KANAL 12
-https://waw1.artiyerelmedya.net/kanal12/bant1/chunks.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="TR" tvg-logo=""  ,KANAL 15
 https://waw2.artiyerelmedya.net/kanal15/bant1/chunks.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo=""  ,KANAL 23
-http://yerelmedya.tv:1935/kanal23/bant1/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="https://yerelmedya.tv/logosTV/kanal3.png"  ,KANAL 3
-https://waw2.artiyerelmedya.net/kanal3/bant1/chunks.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="TR" tvg-logo="https://yerelmedya.tv/logosTV/kanal23.png"  ,KANAL 23
 https://waw2.artiyerelmedya.net/kanal23/bant1/chunks.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="TR" tvg-logo="https://yerelmedya.tv/logosTV/kanal26.png"  ,KANAL 26
 https://waw2.artiyerelmedya.net/kanal26/bant1/chunks.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/KanalB.tr.png"  ,Kanal B
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7047?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="TR" tvg-logo=""  ,Kanal V (720p)
 http://yerelmedya.tv:1935/kanalv/bant1/HasBahCa.m3u8?checkedby:iptvcat.com
@@ -140,23 +92,8 @@ https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?checkedby:iptvcat.
 #EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a2a2c267-f41c-4825-aa80-6d1077e43b1f.png"  ,Kral TV
 https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/KanalTKibris.tr.png"  ,Kıbrıs Tv
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6284?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/NBA.tr.png"  ,NBA TV HD+
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/NR1.tr.png"  ,NR 1
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2045?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="TR" tvg-logo=""  ,NTV
 https://dogus-live.daioncdn.net/ntv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo=""  ,SAT 7 TURK
-http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/chunks.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/Rumeli.tr.png"  ,Rumeli tv
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/9129?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="TR" tvg-logo=""  ,SHOW TV HD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8?checkedby:iptvcat.com
@@ -170,44 +107,53 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8?checkedby:iptvcat.co
 #EXTINF:0 tvg-country="TR" tvg-logo=""  ,TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="TR" tvg-logo=""  ,TEVE 2
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/80709?checkedby:dailyfreeiptvlist.com
+
 #EXTINF:0 tvg-country="TR" tvg-logo=""  ,TGRT HABER HD
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/KibrisGenc.tr.png"  ,TR Kıbrıs Genç Tv
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2784?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TV4.tr.png"  ,TV 4
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13890?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/5.tr.png"  ,TV5
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3287?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TV2.tr.png"  ,Teve2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6386?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TivibuSpor1.tr.png"  ,Tivibu Spor 1
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TivibuSpor2.tr.png"  ,Tivibu Spor  2
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TivibuSpor3.tr.png"  ,Tivibu Spor 3
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4757?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TV8.tr.png"  ,Tv8 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/57?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/tv85.tr.png"  ,Tv8.5 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5390?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="News",UYGUR TV NEWS
-https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w1333397898.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/Vatan.tr.png"  ,Vatan Tv
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7979?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg"  ,tivi TÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/RizeCay.tr.png"  ,Çay Tv Rize
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1927?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",HALK TV HD
+https://mn-nl.mncdn.com/blutv_halktv2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEYAZ TV HD
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/769dc6ff-2963-48cb-908e-4a0d62bd4200.png" group-title="Undefined",Euro Star
+https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",NTV
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8c209aef-5802-4649-9dd6-d3ab7cd96974.png" group-title="Undefined",Number 1 Türk
+https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",POWER TURK FHD
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV 100 HD TR
+https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV4 FHD
+https://mn-nl.mncdn.com/blutv_tv4/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",ULKE TV HD
+https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",ULUSAL KANAL HD
+https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",7 TV
+https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BAKU TV AZ
+https://rtmp.baku.tv/live/bakutv_1080p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://yerelmedya.tv/logosTV/kanal3.png" group-title="Undefined",KANAL 3
+https://waw2.artiyerelmedya.net/kanal3/bant1/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",KANAL 7 HD
+https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8?checkedby:iptvcat.com
